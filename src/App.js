@@ -77,4 +77,12 @@ function App() {
   );
 }
 
+//how to connect php database?
+
+//how to center a div?
+
+
+ 
+
+ 
 export default App;
